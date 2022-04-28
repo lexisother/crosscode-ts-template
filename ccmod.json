@@ -1,0 +1,7 @@
+{
+  "id": "crosscode-ts-template",
+  "version": "1.0.0",
+  "name": "CrossCode TypeScript Template",
+  "description": "A template CrossCode mod written in TypeScript.",
+  "prestart": "dist/prestart.js"
+}
